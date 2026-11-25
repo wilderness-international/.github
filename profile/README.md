@@ -5,7 +5,7 @@
 Wilderness International is a charitable foundation that buys ecologically valuable, endangered old-growth forest and protects it permanently, with legal security. We work in two regions:
 
 - 🇵🇪 **Secret Forest**, in the Peruvian Amazon (Tambopata and Manu)
-- 🇨🇦 **Misty Forest**, the temperate rainforest on Canada's north-west coast
+- 🇨🇦 **Misty Forest**, the temperate rainforest on Canada's north-west coast (British Columbia)
 
 This GitHub organisation is the home of our **Science team**. Here we build the code behind our long-term biodiversity monitoring: how we collect, clean, analyse and share data from our protected areas.
 
